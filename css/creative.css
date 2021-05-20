@@ -147,7 +147,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('http://127.0.0.1:4000//img/big-building-header.jpg');
+  background-image: url('../img/big-building-header.jpg');
   text-align: center;
   color: white;
 }
